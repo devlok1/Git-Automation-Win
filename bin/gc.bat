@@ -1,5 +1,5 @@
 @echo off
 
-python C:\ARKSET\PYTHON\COMMANDS\GIT\py\gcno.py %*
+python C:\ARKSET\PYTHON\COMMANDS\GIT\py\gc.py %*
 
 pause
