@@ -1,5 +1,5 @@
 @echo off
 
-python C:\ARKSET\PYTHON\COMMANDS\GIT\py\gb.py %*
+python "%~dp0..\GIT\py\gb.py" %*
 
 pause

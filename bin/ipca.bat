@@ -1,4 +1,4 @@
 @echo off
-python C:\ARKSET\PYTHON\COMMANDS\ipconfig-tool-arx.py %*
+python "%~dp0..\py\ipconfig-tool-arx.py" %*
 
 pause
