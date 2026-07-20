@@ -21,6 +21,11 @@ python C:\Path\To\Git\py\ga.py %*
 Add the folder containing the .bat files to your Windows PATH.
 Open a new terminal.
 
+NOTE: 
+python "%~dp0..\GIT\py\ga.py" %*  // example of ga(git add)
+This command is used in the bat files , make sure to add the bin folder in your PAth of environmental variables.
+Otherwise it won't run.
+
 ***Usage***
 
 Initialize a repository: gi
