@@ -29,6 +29,7 @@ Otherwise it won't run.
 ***Usage***
 
 Make sure to first create a Repo first. 
+Add the bin file to PATH of Environment variables.
 
 Initialize a repository: gi
 Check status: gs
