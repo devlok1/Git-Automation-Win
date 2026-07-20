@@ -28,16 +28,19 @@ Otherwise it won't run.
 
 ***Usage***
 
+Make sure to first create a Repo first. 
+
 Initialize a repository: gi
 Check status: gs
 Stage all changes: ga
-Commit changes: gc
+Commit changes: gc Comment-Here
 Added Git automation utilities
 
 Create a branch: gb
 feature-login
 
-View remotes: gr
+View remotes: gr 
+//output should be https://github.com/your_username/repo_name.git(fetch & pull each)
 
 Pull from a branch:  gpull main
 
